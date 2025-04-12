@@ -48,6 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/joohhhnnnny/joohhhnnnny/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/joohhhnnnny/joohhhnnnny/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation" />
 
 ###
