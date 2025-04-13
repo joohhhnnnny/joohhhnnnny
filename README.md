@@ -6,7 +6,11 @@
 I'm a Computer Science student who are passionate to explore the world of tech
 </p>
 
+<hr style="height:1px; border:none; background-color:#ccc;" />
+
 ###
+
+<h3 align="left">🛠️ Github Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joohhhnnnny&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
