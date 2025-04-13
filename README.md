@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-I'm a passionate and curious developer who loves turning ideas into interactive and user-friendly software. I work with web technologies, data, and systems — always learning, always building. Whether it’s a full-stack web app, a Java-based system, or a Python script, I’m down to bring it to life.
+I'm a Computer Science student who are passionate to explore the world of tech
 </p>
 
 ###
