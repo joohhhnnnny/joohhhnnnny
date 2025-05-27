@@ -3,8 +3,8 @@
 ###
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-UI%2FUX%20Design-purple?style=for-the-badge&logo=figma&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-UI%2FUX%20Design-purple?style=for-the-badge&logo=figma&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Exploring-AI%20Tools-yellow?style=for-the-badge&logo=openai&logoColor=black" />
 </p>
 
