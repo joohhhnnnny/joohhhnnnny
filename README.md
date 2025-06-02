@@ -4,8 +4,8 @@
 
 <p align="left">
 <!--   <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/Focus-UI%2FUX%20Machine-Learning-purple?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Exploring-AI%20Tools-yellow?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-Machine--Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exploring-AI Tools-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 </p>
 
 <p align="left">
