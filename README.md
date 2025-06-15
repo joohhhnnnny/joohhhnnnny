@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://img.icons8.com/fluency/48/github.png" height="30" alt="github logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" /> -->
 </div>
 
 <br>
