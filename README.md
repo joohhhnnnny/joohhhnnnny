@@ -14,7 +14,7 @@
 
 <br>
 
-<h3 align="left">🛠️ Tools that I use</h3>
+<h3 align="left">🛠️ Tools and Frameworks that I use</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
