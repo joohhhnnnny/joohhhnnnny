@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💻 Computer science student with a passion for AI and Machine Learning.
+<!--   💻 Computer science student with a passion for AI and Machine Learning. -->
 </p>
 
 <br>
