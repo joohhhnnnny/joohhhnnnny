@@ -31,6 +31,13 @@
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img width="16" />
+  <img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+  width="33px" 
+  alt="Git" 
+  style="max-width: 100%; margin-right: 16px;" 
+  />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sql logo" />
