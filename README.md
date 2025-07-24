@@ -33,7 +33,7 @@
   <img width="16" />
   <img 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-  width="33px" 
+  width="31px" 
   alt="Git" 
   style="max-width: 100%; margin-right: 16px;" 
   />
