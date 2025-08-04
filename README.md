@@ -62,7 +62,7 @@
 
 <br>
 
-<h3 align="left">📧 Contact me here</h3>
+<h3 align="left">📧 You can reach me here</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/john-benedict-bongcac-b37668346/" target="_blank">
