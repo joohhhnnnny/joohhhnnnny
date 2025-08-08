@@ -1,18 +1,19 @@
-<h2 align="left">Hi,  It's me John Benedict Bongcac 👦</h2>
+<h2 align="left">Hi, It's me John Benedict Bongcac 👦</h2>
 
-###
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&left=true&vleft=true&width=600&lines=AI+Enthusiast;Full-Stack+Developer;Computer+Science+Student" alt="Typing SVG" />
+</p>
+
 
 <p align="left">
 <!--   <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/Focus-Machine--Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Exploring-AI Tools-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/Focus-Machine--Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> -->
+<!--   <img src="https://img.shields.io/badge/Exploring-AI Tools-D97757?style=for-the-badge&logo=claude&logoColor=white" /> -->
 </p>
 
 <p align="left">
 <!--   💻 Computer science student with a passion for AI and Machine Learning. -->
 </p>
-
-<br>
 
 <h3 align="left">🛠️ Tools and Frameworks that I use</h3>
 
