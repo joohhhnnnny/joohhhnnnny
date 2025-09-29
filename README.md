@@ -1,7 +1,7 @@
 <h2 align="left">Hi, It's me John Benedict Bongcac 👦</h2>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&left=true&vleft=true&width=600&lines=AI+Enthusiast;Frontend+Developer;Computer+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&left=true&vleft=true&width=600&lines=AI+Enthusiast;Web+Developer" alt="Typing SVG" />
 </p>
 
 
