@@ -15,7 +15,7 @@
 <!--   💻 Computer science student with a passion for AI and Machine Learning. -->
 </p>
 
-<h3 align="left">🛠️ Tools and Frameworks that I use</h3>
+<h3 align="left">My Tech Stack</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
