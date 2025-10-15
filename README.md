@@ -53,7 +53,7 @@
 
 <br>
 
-<h3 align="left">📧 You can reach me here</h3>
+<h3 align="left">Connect with me</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/john-benedict-bongcac-b37668346/" target="_blank">
@@ -69,7 +69,7 @@
 
 <br>
 
-<h3 align="left">🛠️ Github Stats</h3>
+<h3 align="left">Github Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joohhhnnnny&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
