@@ -14,7 +14,7 @@
 <!--   💻 Computer science student with a passion for AI and Machine Learning. -->
 </p>
 
-<h3 align="left">Frontend</h3>
+<h3 align="left">Tech Stack</h3>
 <div align="left">
   <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
@@ -36,37 +36,37 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
   <img width="16" />
   
-  <!-- Vite -->
-  <img src="https://cdn.simpleicons.org/vite/646CFF" height="30" alt="Vite logo" />
+ <!-- Updated Vite -->
+  <img src="https://vitejs.dev/logo.svg" height="30" alt="Vite logo" />
+  <img width="16" />
+
+  <!-- daisyUI (latest “flower/happy face” logo) -->
+  <img src="https://img.daisyui.com/images/daisyui/mark-static.svg" height="30" alt="daisyUI logo" />
+  <img width="16" />
+
+   <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
   <img width="16" />
   
-  <!-- DaisyUI -->
-  <img src="https://cdn.simpleicons.org/daisyui/5A0EF8" height="30" alt="DaisyUI logo" />
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+  <img width="16" />
+  
+  <!-- PHP -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo" />
+  <img width="16" />
+  
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
+  <img width="16" />
+  
+  <!-- Firebase -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg/640px-Firebase_Logo_%28No_wordmark%29_%282024-%29.svg.png" height="30" alt="Firebase logo" />
   <img width="16" />
 </div>
+
 <br>
-<h3 align="left">Backend</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sql logo" />
-  <img width="15" />
-  <img
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg/640px-Firebase_Logo_%28No_wordmark%29_%282024-%29.svg.png"
-  height="30"
-  alt="Firebase logo"
-  />
-  <img width="16" />
-</div>
-<br>
-<h3 align="left">Programming languages</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height: 30px; width: 30px;" alt="php logo" />
-  <img width="16" />
-</div>
-<br>
+
 <h3 align="left">Tools</h3>
 <div align="left">
   <!-- Figma -->
@@ -87,11 +87,14 @@
 </div>
 
 <br>
+
 <h3 align="left">Data & AI</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
+  <!-- TensorFlow -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow logo" />
   <img width="16" />
 </div>
+
 
 <br>
 
