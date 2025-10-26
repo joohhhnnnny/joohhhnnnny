@@ -1,4 +1,4 @@
-<h2 align="left">Hi, It's me John Benedict Bongcac 👦</h2>
+<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/d257028e-5b82-440b-bc12-4961e06f9d80" /><h2 align="left">Hi, It's me John Benedict Bongcac 👦</h2>
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&left=true&vleft=true&width=600&lines=nothing%20to%20see%20here;you%20can%20go%20now;bye%20bye:)" alt="Typing SVG" />
@@ -16,6 +16,19 @@
 
 <h3 align="left">Tech Stack</h3>
 <div align="left">
+
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
+  <img width="16" />
+
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
+  <img width="16" />
+
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+  <img width="16" />
+  
   <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
   <img width="16" />
@@ -27,41 +40,37 @@
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
   <img width="16" />
+
+  <!-- PHP -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo" />
+  <img width="16" />
   
   <!-- Tailwind CSS -->
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="Tailwind CSS logo" />
+  <img width="16" />
+
+  <!-- Updated Vite -->
+  <img src="https://vitejs.dev/logo.svg" height="30" alt="Vite logo" />
   <img width="16" />
   
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
   <img width="16" />
-  
- <!-- Updated Vite -->
-  <img src="https://vitejs.dev/logo.svg" height="30" alt="Vite logo" />
-  <img width="16" />
 
   <!-- daisyUI (latest “flower/happy face” logo) -->
   <img src="https://img.daisyui.com/images/daisyui/mark-static.svg" height="30" alt="daisyUI logo" />
   <img width="16" />
-
-   <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
-  <img width="16" />
-  
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
-  <img width="16" />
-  
-  <!-- PHP -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo" />
-  <img width="16" />
-  
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
-  <img width="16" />
   
   <!-- Firebase -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg/640px-Firebase_Logo_%28No_wordmark%29_%282024-%29.svg.png" height="30" alt="Firebase logo" />
+  <img width="16" />
+
+  <!-- Typescript -->
+  <img src="" height="30" alt="Typescript logo" />
+  <img width="16" />
+
+  <!-- PostgreSQL -->
+  <img src="" height="30" alt="Typescript logo" />
   <img width="16" />
 </div>
 
