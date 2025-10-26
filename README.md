@@ -1,4 +1,4 @@
-<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/d257028e-5b82-440b-bc12-4961e06f9d80" /><h2 align="left">Hi, It's me John Benedict Bongcac 👦</h2>
+<h2 align="left">Hi, It's me John Benedict Bongcac 👦</h2>
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&left=true&vleft=true&width=600&lines=nothing%20to%20see%20here;you%20can%20go%20now;bye%20bye:)" alt="Typing SVG" />
@@ -62,17 +62,17 @@
   <img width="16" />
   
   <!-- Firebase -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg/640px-Firebase_Logo_%28No_wordmark%29_%282024-%29.svg.png" height="30" alt="Firebase logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg/640px-  Firebase_Logo_%28No_wordmark%29_%282024-%29.svg.png" height="30" alt="Firebase logo" />
   <img width="16" />
 
-  <!-- Typescript -->
-  <img src="" height="30" alt="Typescript logo" />
+ <!-- Typescipt -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="30" style="margin-right:4px;" />
   <img width="16" />
 
   <!-- PostgreSQL -->
-  <img src="" height="30" alt="Typescript logo" />
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="30" alt="Typescript logo" />
   <img width="16" />
-</div>
+  </div>
 
 <br>
 
@@ -99,9 +99,14 @@
 
 <h3 align="left">Data & AI</h3>
 <div align="left">
+  
   <!-- TensorFlow -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow logo" />
   <img width="16" />
+
+  <!-- R -->
+  <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R logo" height="30" />
+  
 </div>
 
 
