@@ -1,6 +1,8 @@
-<h2 align="left">
+![Profile Header](./header/joohhhnnnny-header.gif)
+
+<!-- <h2 align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&left=true&vleft=true&width=600&lines=Hello%20there!;It's%20me%20John%20Benedict;I%20Study%20Computer%20Science%20:)" alt="Typing SVG" />
-</h2>
+</h2> -->
 
 <p align="left">
 <!--   <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> -->
