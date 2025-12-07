@@ -67,7 +67,7 @@
   <img width="16" />
 
   <!-- PostgreSQL -->
-  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="30" alt="Typescript logo" />
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="30" alt="Postgres logo" />
   <img width="16" />
   </div>
 
@@ -90,6 +90,11 @@
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code logo" />
   <img width="16" />
+
+  ## Test Google Colab Logo
+
+  ![Colab logo test](https://raw.githubusercontent.com/joohhhnnnny/your‑repo/main/images/google-colab.png)
+
 
 </div>
 
@@ -129,9 +134,3 @@
     <img alt="joohhhnnnny's top languages" src="https://github-readme-stats-alpha-jet-37.vercel.app/api/top-langs/?username=joohhhnnnny&hide_border=true&layout=compact&theme=transparent" />
   </div>
 </details>
-
-<br>
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXF1dzBmNmhxYWk0cjJ4a2lmcXMzbGtlOHQyamF3bXhoaXRkcjZzMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" />
-</div>
