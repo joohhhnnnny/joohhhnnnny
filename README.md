@@ -11,6 +11,7 @@
 </p>
 
 ---
+
 <h3 align="left">Tech Stack</h3>
 <div align="left">
 
@@ -91,10 +92,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code logo" />
   <img width="16" />
 
-  ## Test Google Colab Logo
-
-  ![Colab logo test](https://raw.githubusercontent.com/joohhhnnnny/your‑repo/main/images/google-colab.png)
-
+  <!-- Colab -->
+  <img src="./assets/colab.png" height="30" alt="VS Code logo" />
+  <img width="16" />
 
 </div>
 
