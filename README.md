@@ -90,6 +90,7 @@
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code logo" />
   <img width="16" />
+
 </div>
 
 <br>
@@ -103,9 +104,7 @@
 
   <!-- R -->
   <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R logo" height="30" />
-  
 </div>
-
 
 <br>
 
@@ -114,8 +113,6 @@
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/john-benedict-bongcac-b37668346/)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:johnbongcacjohn@gmail.com)
 [![Facebook](https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge)](https://www.facebook.com/profile.php?id=100018147995070)
-
-<br>
 
 ---
 
