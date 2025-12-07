@@ -70,6 +70,10 @@
   <!-- PostgreSQL -->
   <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="30" alt="Postgres logo" />
   <img width="16" />
+
+   <!-- Streamlit -->
+  <img src="./assets/streamlit.png" height="30" alt="VS Code logo" />
+  <img width="16" />
   </div>
 
 <br>
