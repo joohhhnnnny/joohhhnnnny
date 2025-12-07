@@ -10,10 +10,7 @@
 <!--   <img src="https://img.shields.io/badge/Exploring-AI Tools-D97757?style=for-the-badge&logo=claude&logoColor=white" /> -->
 </p>
 
-<p align="left">
-<!--   💻 Computer science student with a passion for AI and Machine Learning. -->
-</p>
-
+---
 <h3 align="left">Tech Stack</h3>
 <div align="left">
 
@@ -120,12 +117,21 @@
 
 <br>
 
-<h3 align="left">Github Stats</h3>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joohhhnnnny&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joohhhnnnny&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<details>
+  <summary>⚡Github Stats</summary>
+  <div align="center">
+    <img alt="joohhhnnnny's github stats" src="https://github-readme-stats-alpha-jet-37.vercel.app/api?username=joohhhnnnny&show_icons=true&hide_border=true&theme=transparent" />
+  </div>
+</details>
+
+<details>
+  <summary>⚡Most Used Languages</summary>
+  <div align="center">
+    <img alt="joohhhnnnny's top languages" src="https://github-readme-stats-alpha-jet-37.vercel.app/api/top-langs/?username=joohhhnnnny&hide_border=true&layout=compact&theme=transparent" />
+  </div>
+</details>
 
 <br>
 
