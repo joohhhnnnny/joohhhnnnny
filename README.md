@@ -97,8 +97,13 @@
   <img width="16" />
 
   <!-- Colab -->
-  <img src="./assets/colab.png" height="30" alt="VS Code logo" />
+  <img src="./assets/colab.png" height="30" alt="Colab logo" />
   <img width="16" />
+
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
+  <img width="16" />
+  
 
 </div>
 
