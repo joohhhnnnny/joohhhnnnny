@@ -48,7 +48,7 @@
   <img width="16" />
 
   <!-- Updated Vite -->
-  <img src="https://vitejs.dev/logo.svg" height="30" alt="Vite logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/960px-Vitejs-logo.svg.png" height="30" alt="Vite logo" />
   <img width="16" />
   
   <!-- React -->
