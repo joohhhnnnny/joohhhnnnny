@@ -115,8 +115,6 @@
 
 ---
 
-<br>
-
 <h3 align="left">Connect with me</h3>
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/john-benedict-bongcac-b37668346/)
