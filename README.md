@@ -44,6 +44,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height:38px;" alt="PHP" />
   <img width="18" />
 
+  <!-- npm -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="height:38px;" alt="npm" />
+  <img width="18" />
+
   <!-- Tailwind CSS -->
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" style="height:38px;" alt="Tailwind CSS" />
   <img width="18" />
@@ -84,12 +88,12 @@
   <img src="https://www.postgresql.org/media/img/about/press/elephant.png" style="height:38px;" alt="PostgreSQL" />
   <img width="18" />
 
-  <!-- Streamlit -->
-  <img src="./assets/streamlit.png" style="height:38px;" alt="Streamlit" />
+  <!-- Vercel -->
+  <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/vercel-logo-icon.png" style="height:38px;" alt="Vercel" />
   <img width="18" />
 
-  <!-- npm -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="height:38px;" alt="npm" />
+  <!-- Streamlit -->
+  <img src="./assets/streamlit.png" style="height:38px;" alt="Streamlit" />
   <img width="18" />
 
   <!-- R -->
