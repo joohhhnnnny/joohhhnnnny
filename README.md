@@ -14,7 +14,7 @@
 
 <h3 align="left">Tech Stack</h3>
 
-<div align="left">
+<div align="center">
 
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:38px;" alt="Java" />
@@ -109,7 +109,7 @@
 
 </div>
 
-
+---
 
 <br>
 
