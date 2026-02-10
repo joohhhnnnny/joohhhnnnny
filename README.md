@@ -13,112 +13,103 @@
 ---
 
 <h3 align="left">Tech Stack</h3>
+
 <div align="left">
 
   <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
-  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:38px;" alt="Java" />
+  <img width="18" />
 
   <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
-  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:38px;" alt="MySQL" />
+  <img width="18" />
 
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
-  <img width="16" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:38px;" alt="Python" />
+  <img width="18" />
+
   <!-- HTML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
-  <img width="16" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:38px;" alt="HTML5" />
+  <img width="18" />
+
   <!-- CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
-  <img width="16" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:38px;" alt="CSS3" />
+  <img width="18" />
+
   <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
-  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:38px;" alt="JavaScript" />
+  <img width="18" />
 
   <!-- PHP -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo" />
-  <img width="16" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height:38px;" alt="PHP" />
+  <img width="18" />
+
   <!-- Tailwind CSS -->
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="Tailwind CSS logo" />
-  <img width="16" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" style="height:38px;" alt="Tailwind CSS" />
+  <img width="18" />
 
-  <!-- Updated Vite -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/960px-Vitejs-logo.svg.png" height="30" alt="Vite logo" />
-  <img width="16" />
-  
+  <!-- Vite -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" style="height:38px;" alt="Vite" />
+  <img width="18" />
+
+   <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:38px;" alt="Git" />
+  <img width="18" />
+
+   <!-- TensorFlow -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="height:38px;" alt="TensorFlow" />
+  <img width="18" />
+
   <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
-  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:38px;" alt="React" />
+  <img width="18" />
 
-  <!-- daisyUI (latest “flower/happy face” logo) -->
-  <img src="https://img.daisyui.com/images/daisyui/mark-static.svg" height="30" alt="daisyUI logo" />
-  <img width="16" />
-  
+  <!-- daisyUI -->
+  <img src="https://img.daisyui.com/images/daisyui/mark-static.svg" style="height:38px;" alt="daisyUI" />
+  <img width="18" />
+
+   <!-- Figma -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height:38px;" alt="Figma" />
+  <img width="18" />
+
   <!-- Firebase -->
-  <img src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck.png" height="30" alt="Firebase logo" />
-  <img width="16" />
+  <img src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck.png" style="height:38px;" alt="Firebase" />
+  <img width="18" />
 
- <!-- Typescipt -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="30" style="margin-right:4px;" />
-  <img width="16" />
+  <!-- TypeScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height:38px;" alt="TypeScript" />
+  <img width="18" />
 
   <!-- PostgreSQL -->
-  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="30" alt="Postgres logo" />
-  <img width="16" />
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" style="height:38px;" alt="PostgreSQL" />
+  <img width="18" />
 
-   <!-- Streamlit -->
-  <img src="./assets/streamlit.png" height="30" alt="VS Code logo" />
-  <img width="16" />
-  </div>
+  <!-- Streamlit -->
+  <img src="./assets/streamlit.png" style="height:38px;" alt="Streamlit" />
+  <img width="18" />
 
-<br>
-
-<h3 align="left">Tools</h3>
-<div align="left">
-  <!-- Figma -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma logo" />
-  <img width="16" />
-  
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
-  <img width="16" />
-  
   <!-- npm -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo" />
-  <img width="16" />
-  
-  <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code logo" />
-  <img width="16" />
-
-  <!-- Colab -->
-  <img src="./assets/colab.png" height="30" alt="Colab logo" />
-  <img width="16" />
-
-  <!-- Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
-  <img width="16" />
-  
-
-</div>
-
-<br>
-
-<h3 align="left">Data & AI</h3>
-<div align="left">
-  
-  <!-- TensorFlow -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow logo" />
-  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="height:38px;" alt="npm" />
+  <img width="18" />
 
   <!-- R -->
-  <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R logo" height="30" />
+  <img src="https://www.r-project.org/logo/Rlogo.svg" style="height:38px;" alt="R" />
+  <img width="18" />
+
+   <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height:38px;" alt="Linux" />
+  <img width="18" />
+
+  <!-- Redux -->
+  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" style="height:38px;" alt="Redux" />
+  <img width="18" />
+
+  <!-- Supabase -->
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/supabase.webp" style="height:38px;" alt="Supabase" />
+
 </div>
+
+
 
 <br>
 
