@@ -60,7 +60,7 @@
   <img width="16" />
   
   <!-- Firebase -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg/640px-  Firebase_Logo_%28No_wordmark%29_%282024-%29.svg.png" height="30" alt="Firebase logo" />
+  <img src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck.png" height="30" alt="Firebase logo" />
   <img width="16" />
 
  <!-- Typescipt -->
