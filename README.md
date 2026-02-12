@@ -44,6 +44,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height:38px;" alt="PHP" />
   <img width="18" />
 
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:38px;" alt="Git" />
+  <img width="18" />
+
   <!-- npm -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="height:38px;" alt="npm" />
   <img width="18" />
@@ -56,16 +60,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" style="height:38px;" alt="Vite" />
   <img width="18" />
 
-   <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:38px;" alt="Git" />
+   <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:38px;" alt="React" />
   <img width="18" />
 
    <!-- TensorFlow -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="height:38px;" alt="TensorFlow" />
-  <img width="18" />
-
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:38px;" alt="React" />
   <img width="18" />
 
   <!-- daisyUI -->
