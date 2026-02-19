@@ -114,6 +114,10 @@
 
   <!-- Supabase -->
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/supabase.webp" style="height:38px;" alt="Supabase" />
+  <img width="18" />
+
+  <!-- Laravel -->
+  <img src="https://      camo.githubusercontent.com/0349f273e62dae47fcded4e815fb608f300c7e70d06dc22796ce15edd5984754/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c61726176656c2f6c61726176656c2d6f726967696e616c2e737667" style="height:38px;" alt="Laravel" />
 
 </div>
 
