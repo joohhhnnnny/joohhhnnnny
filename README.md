@@ -96,10 +96,6 @@
   <img src="./assets/streamlit.png" style="height:38px;" alt="Streamlit" />
   <img width="18" />
 
-  <!-- R -->
-  <img src="https://www.r-project.org/logo/Rlogo.svg" style="height:38px;" alt="R" />
-  <img width="18" />
-
    <!-- NextJS -->
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" style="height:38px;" alt="NextJS" />
   <img width="18" />
